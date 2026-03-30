@@ -25,7 +25,7 @@ npx playwright test
 
 ## Test details
 
-Tests are performed against the website https://practicetestautomation.com/practice-test-login/ .
+The tests are performed against the website https://practicetestautomation.com .
 Many thanks to it's author Dmitry Shyshkin.
 
 Two tests were implemented :
