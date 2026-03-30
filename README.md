@@ -22,11 +22,12 @@ tests
 ```bash
 npm install
 npx playwright test
+```
 
 ## Test details
 
-The tests are performed against the website https://practicetestautomation.com .
-Many thanks to it's author Dmitry Shyshkin.
+The tests are performed against the dummy website 'https://practicetestautomation.com'
+Many thanks to this website's author.
 
 Two tests were implemented :
 1) Login with valid credentials and verify whether navigated to landing page.
