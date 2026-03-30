@@ -6,7 +6,7 @@ export default defineConfig({
   retries: 1,
   reporter: [['html', { open: 'never' }]],
   use: {
-    headless: false,
+    headless: true,
     screenshot: 'only-on-failure',
     video: 'retain-on-failure',
     trace: 'on-first-retry'

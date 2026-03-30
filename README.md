@@ -25,10 +25,13 @@ npx playwright test
 
 ## Test details
 
-Tests are performed against the website https://practicetestautomation.com/practice-test-login/ . Many thanks to it's author Dmitry Shyshkin.
+Tests are performed against the website https://practicetestautomation.com/practice-test-login/ .
+Many thanks to it's author Dmitry Shyshkin.
 
 Two tests were implemented :
 1) Login with valid credentials and verify whether navigated to landing page.
 2) Login with invalid credentials and very whether error message is displayed.
 
 Screenshots of actual test run :
+![alt text](https://github.com/neesara/playwright-ui-framework/blob/main/result1.png)
+![alt text](https://github.com/neesara/playwright-ui-framework/blob/main/result2.png)
